@@ -1,0 +1,6 @@
+{
+  "name": "General Store",
+  "description": "Smart inventory, billing POS, customer ledger (Khata), and sales analytics for general stores and retail shops.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
